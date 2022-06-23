@@ -1,0 +1,67 @@
+input,i{
+    margin-bottom: 10px;
+}
+
+.cor{
+    background-color: #2E8B57;
+    color: white;
+    font-weight: bold;
+}
+
+#fundo{
+   background-color: #90EE90;
+}
+
+.botao{
+    background-color: #2E8B57;
+    color: #ffffff;
+    border-color: #2e88db;
+    font-weight: bold;
+}
+
+.txt{
+    background-color: #2E8B57;
+    color: white;
+    font-weight: bold;
+}
+
+textarea{
+    resize: none;
+}
+
+.cor1{
+    background-color: #6df06d;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.cor2{
+    background-color: #3dd645;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.cor3{
+    background-color: #2E8B57;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.fundao{
+    background-color: #2E8B57;
+    color:#ffffff;
+    font-weight: bold;
+}
+.fundinho{
+    background-color: #90EE90 ;
+}
+.logoff{
+    position:fixed;
+    right: 0; 
+    cursor: pointer;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+h4{
+    font-size: 20px;
+}
